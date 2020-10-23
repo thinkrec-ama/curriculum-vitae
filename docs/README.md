@@ -7,8 +7,8 @@
 |key|value|
 |:-|:-|
 |Name|ama|
-|Twitter|[@dev_yama](https://twitter.com/dev_yama)|
-|connpass|[@a_m_a_a_m_a](https://connpass.com/user/a_m_a_a_m_a/)|
+|Twitter|[@dev_yama](https://twitter.com/dev_yama){:target="_blank"}|
+|connpass|[@a_m_a_a_m_a](https://connpass.com/user/a_m_a_a_m_a/){:target="_blank"}|
 
 ## 自己PR
 ```
