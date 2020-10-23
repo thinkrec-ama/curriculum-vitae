@@ -57,20 +57,20 @@ PRの一貫としてWEBサイト構築を切っ掛けに、2012年に都内WEB�
 
 ## 実務経歴
 ### 1
-|項目|詳細|
-|:-|:-|
-|案件名|大手飲食店検索・ネット予約サイト エンハンス案件|
-|期間|2013/12 〜 2020/10|
-|業種|IT・通信・ Webエンジニア|
-|職種|フロントエンドエンジニア|
-|役割|メンバー|
-|規模|7,500ファイル|
-|URL|-|
-|人員|5人|
-|工程|開発, テスト, 品質管理, 運用・保守|
-|業務内容|-|
-|技術スタック|HTML5.x, XHTML1.x, CSS3, CSS2.x,<br>  Microsoft Windows 10, Microsoft Windows 8, macOS High Sierra,<br>  Github, Jira Software, Gulp, webpack, npm, <br> IntelliJ WebStorm, Visual Studio Code, Sass,<br>  Slack, Git, Sourcetree, JavaScript（ECMAScript2015）,<br>  jQuery1.x, jQuery2.x, jQuery3.x, inVision|
-|成果|大規模サイトでビルドシステムを利用してのファイル管理を経験できました。<br> 開発工数が少なくなった場合でも、毎月の安定したリリースに貢献できました。|
+|No.|項目|詳細|
+|:-|:-|:-|
+|1|案件名|大手飲食店検索・ネット予約サイト エンハンス案件|
+|^|期間|2013/12 〜 2020/10|
+|^|業種|IT・通信・ Webエンジニア|
+|^|職種|フロントエンドエンジニア|
+|^|役割|メンバー|
+|^|規模|7,500ファイル|
+|^|URL|-|
+|^|人員|5人|
+|^|工程|開発, テスト, 品質管理, 運用・保守|
+|^|業務内容|-|
+|^|技術スタック|HTML5.x, XHTML1.x, CSS3, CSS2.x,<br>  Microsoft Windows 10, Microsoft Windows 8, macOS High Sierra,<br>  Github, Jira Software, Gulp, webpack, npm, <br> IntelliJ WebStorm, Visual Studio Code, Sass,<br>  Slack, Git, Sourcetree, JavaScript（ECMAScript2015）,<br>  jQuery1.x, jQuery2.x, jQuery3.x, inVision|
+|^|成果|大規模サイトでビルドシステムを利用してのファイル管理を経験できました。<br> 開発工数が少なくなった場合でも、毎月の安定したリリースに貢献できました。|
 
 ### 2
 |項目|詳細|
