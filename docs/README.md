@@ -56,7 +56,7 @@ PRの一貫としてWEBサイト構築を切っ掛けに、2012年に都内WEB�
 |OS.環境|Windows Vista, Windows 7,8,9,10,11, Mac OS|
 
 ## 実務経歴
-
+### 1
 |項目|詳細|
 |:-|:-|
 |案件名|大手飲食店検索・ネット予約サイト エンハンス案件|
@@ -69,5 +69,53 @@ PRの一貫としてWEBサイト構築を切っ掛けに、2012年に都内WEB�
 |人員|5人|
 |工程|開発, テスト, 品質管理, 運用・保守|
 |業務内容|-|
-|技術スタック| HTML5.x, XHTML1.x, CSS3, CSS2.x,<br>  Microsoft Windows 10, Microsoft Windows 8, macOS High Sierra,<br>  Github, Jira Software, Gulp, webpack, npm, <br> IntelliJ WebStorm, Visual Studio Code, Sass,<br>  Slack, Git, Sourcetree, JavaScript（ECMAScript2015）,<br>  jQuery1.x, jQuery2.x, jQuery3.x, inVision|
+|技術スタック|HTML5.x, XHTML1.x, CSS3, CSS2.x,<br>  Microsoft Windows 10, Microsoft Windows 8, macOS High Sierra,<br>  Github, Jira Software, Gulp, webpack, npm, <br> IntelliJ WebStorm, Visual Studio Code, Sass,<br>  Slack, Git, Sourcetree, JavaScript（ECMAScript2015）,<br>  jQuery1.x, jQuery2.x, jQuery3.x, inVision|
 |成果|大規模サイトでビルドシステムを利用してのファイル管理を経験できました。<br> 開発工数が少なくなった場合でも、毎月の安定したリリースに貢献できました。|
+
+### 2
+|項目|詳細|
+|:-|:-|
+|案件名|大手美容院・美容室・ヘアサロン検索・ネット予約サイト エンハンス案件|
+|期間|2013/07 〜 2013/11|
+|業種|IT・通信・ Webエンジニア|
+|職種|フロントエンドエンジニア|
+|役割|メンバー|
+|規模|2,000ファイル 〜|
+|URL|-|
+|人員|7人|
+|工程|開発, 品質管理, 運用・保守|
+|業務内容|-|
+|技術スタック|HTML5.x, XHTML1.x, CSS3, CSS2.x, jQuery1.x, TortoiseSVN, Apache Subversion|
+|成果|既存管理されているWebサービスに途中から参画する経験を得ました。<br> 要件にあったLPサイトを作成することで、キャンペーンの訴求に貢献できました。|
+
+### 3
+|項目|詳細|
+|:-|:-|
+|案件名|大手バイト・アルバイト・パート求人検索サイト リニューアル案件|
+|期間|2013/04 〜 2013/06|
+|業種|IT・通信・ Webエンジニア|
+|職種|フロントエンドエンジニア|
+|役割|メンバー|
+|規模|1,000ファイル 〜|
+|URL|-|
+|人員|9人|
+|工程|開発, 品質管理|
+|業務内容|-|
+|技術スタック|HTML5.x, CSS3, Photoshop CC, Sublime Text, jQuery1.x, Backlog, Sourcetree, Git|
+|成果|大規模サイトの全面リニューアル経験を得ることができました。<br> リニューアル案件から派生して、エンハンス業務も請け負うことができました。|
+
+### 4
+|項目|詳細|
+|:-|:-|
+|案件名|大手派遣登録・仕事探しサービスの基幹システム リニューアル案件|
+|期間|2012/08 〜 2013/04|
+|業種|IT・通信・ Webエンジニア|
+|職種|マークアップエンジニア|
+|役割|メンバー|
+|規模|1,000ファイル 〜|
+|URL|-|
+|人員|5人|
+|工程|開発, 品質管理|
+|業務内容|-|
+|技術スタック|HTML5.x, CSS3, Git, Sublime Text, Sourcetree, Photoshop CC, jQuery1.x, Backlog|
+|成果|機能リリースされて、現在でも人材管理業務に使用されています。<br> チーム実装の経験を得ることができました。<br> gitの実務経験を得ることができました。|
