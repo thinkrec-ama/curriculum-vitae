@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thinkrec-ama/curriculum-vitae/issues"
   },
-  "homepage": "https://github.com/thinkrec-ama/curriculum-vitae#readme"
+  "homepage": "https://github.com/thinkrec-ama/curriculum-vitae#readme",
+  "devDependencies": {
+    "md-to-pdf": "^3.1.1"
+  }
 }
