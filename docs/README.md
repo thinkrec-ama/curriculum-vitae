@@ -6,7 +6,8 @@
 
 |key|value|
 |:-|:-|
-|Name|ama|
+|氏名|ama|
+|生年月日|yyyy/mm/dd|
 |Twitter|[@dev_yama](https://twitter.com/dev_yama)|
 |connpass|[@a_m_a_a_m_a](https://connpass.com/user/a_m_a_a_m_a/)|
 
@@ -37,23 +38,39 @@ PRの一貫としてWEBサイト構築を切っ掛けに、2012年に都内WEB�
 技術のことだけではなく、事業に寄り添った動きが出来ればと考えております。
 ```
 
-## 技術
+## 技術スタック
+### 言語
+- XHTML1.x
+- HTML5.x
+- CSS2.x
+- CSS3
+- JavaScript
+- Sass
 
-|分類|詳細|
-|:-|:-|
-|言語|HTML, CSS, jQuery, JavaScript, Markdown|
-|パッケージ管理|npm, yarn|
-|CSSプリプロセッサー|Sass|
-|タスクランナー|gulp|
-|バージョン管理|Git, GitHub, SVN, TortoiseSVN|
-|エディタ|WebStorm, Visual Studio Code|
-|静的サイトジェネレーター|VuePress, Gatsby|
-|ホスティング|Netlify|
-|ターミナル.app|iTerm2|
-|タスク管理|JIRA, Confluence, Backlog, Redmine, Brabio!|
-|コミュニケーション|Slack, HipChat, Google Hangouts, Gmail|
-|Office|Outlook, Word, Excel, PowerPoint|
-|OS.環境|Windows Vista, Windows 7,8,9,10,11, Mac OS|
+### ライブラリ/フレームワーク
+- jQuery1.x
+- jQuery2.x
+- jQuery3.x
+- EJS
+
+### ツール
+- IntelliJ WebStorm
+- Visual Studio Code
+- Sublime Text
+- inVision
+- iTerm2
+
+### バージョン管理
+- Git
+- SVN
+
+### タスク管理
+- Github
+- Jira Software
+
+### その他
+- Netlify
+- Slack
 
 ## 実務経歴
 ### 1
