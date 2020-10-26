@@ -8,5 +8,5 @@ v12.19.0
 ## PDF変換
 ```
 $ npm run build:pdf
--> docs配下にPDF出力
+-> dest配下にPDF出力
 ```
