@@ -33,44 +33,61 @@ PRの一貫としてWEBサイト構築を切っ掛けに、2012年に都内WEB�
 - 自社開発
 - WEBマーケティング（デジタル）
 - WEB系のイベント企画・運営
+- WEBアクセシビリティ
 - 空間ビジネス
 
 技術のことだけではなく、事業に寄り添った動きが出来ればと考えております。
 ```
 
 ## 技術スタック
+### レベル説明
+- S: 他者への教育可 / A: 複雑な要求にも対応できる
+- B: 誰にも頼らず一人で対応できる / C: 調べながら進めることができる
+
 ### 言語
-- XHTML1.x
-- HTML5.x
-- CSS2.x
-- CSS3
-- JavaScript
-- Sass
+|項目|レベル|経験年数|
+|:-|:-:|:-:|
+|XHTML1.x|A|7年|
+|HTML5.x|A|7年|
+|CSS2.x|B|7年|
+|CSS3|B|7年|
+|Sass|C|3年|
+|JavaScript|C|4年|
 
 ### ライブラリ/フレームワーク
-- jQuery1.x
-- jQuery2.x
-- jQuery3.x
-- EJS
+|項目|レベル|経験年数|
+|:-|:-:|:-:|
+|jQuery1.x|C|4年|
+|jQuery2.x|C|4年|
+|jQuery3.x|C|4年|
+|EJS|C|1年|
 
 ### ツール
-- IntelliJ WebStorm
-- Visual Studio Code
-- Sublime Text
-- inVision
-- iTerm2
+|項目|レベル|経験年数|
+|:-|:-:|:-:|
+|IntelliJ WebStorm|B|4年|
+|Visual Studio Code|B|4年|
+|Sublime Text|B|2年|
+|iTerm2|C|4年|
+|inVision|C|2年|
 
 ### バージョン管理
-- Git
-- SVN
+|項目|レベル|経験年数|
+|:-|:-:|:-:|
+|Git|B|4年|
+|SVN|B|2年|
 
 ### タスク管理
-- Github
-- Jira Software
+|項目|レベル|経験年数|
+|:-|:-:|:-:|
+|Github|B|4年|
+|Jira Software|C|3年|
 
 ### その他
-- Netlify
-- Slack
+|項目|レベル|経験年数|
+|:-|:-:|:-:|
+|Slack|B|3年|
+|Netlify|C|1年|
 
 ## 実務経歴
 ### 1
