@@ -7,6 +7,6 @@ v12.19.0
 
 ## PDF変換
 ```
-$ npx md-to-pdf docs/README.md
+$ npm run build:pdf
 -> docs配下にPDF出力
 ```
